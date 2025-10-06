@@ -16,7 +16,7 @@ const Team = () => {
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
             Meet Our{" "}
-            <span className="text-primary">Team</span>
+            <span className="gradient-hero bg-clip-text text-transparent">Team</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Passionate students building the future of education

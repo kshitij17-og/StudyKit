@@ -26,7 +26,7 @@ const Features = () => {
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
             Everything You Need to{" "}
-            <span className="text-primary">Succeed</span>
+            <span className="gradient-hero bg-clip-text text-transparent">Succeed</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Powerful features designed to help you learn faster and smarter

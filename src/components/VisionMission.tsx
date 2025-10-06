@@ -8,7 +8,7 @@ const VisionMission = () => {
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
             Our Vision &{" "}
-            <span className="text-primary">Mission</span>
+            <span className="gradient-hero bg-clip-text text-transparent">Mission</span>
           </h2>
         </div>
         

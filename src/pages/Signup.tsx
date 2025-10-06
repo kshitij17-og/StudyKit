@@ -28,7 +28,7 @@ const Signup = () => {
         <CardHeader className="space-y-4 text-center">
           <Link to="/" className="mx-auto inline-flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold text-primary">
+            <span className="text-2xl font-bold gradient-hero bg-clip-text text-transparent">
               Study Kit
             </span>
           </Link>
