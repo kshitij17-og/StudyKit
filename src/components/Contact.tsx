@@ -8,7 +8,7 @@ const Contact = () => {
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
             Get in{" "}
-            <span className="gradient-hero bg-clip-text text-transparent">Touch</span>
+            <span className="text-primary">Touch</span>
           </h2>
           <p className="text-lg text-muted-foreground">
             We're here to help you succeed

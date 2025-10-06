@@ -45,7 +45,7 @@ const Timeline = () => {
         <div className="text-center space-y-4 mb-12">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
             Our Product{" "}
-            <span className="gradient-hero bg-clip-text text-transparent">Timeline</span>
+            <span className="text-primary">Timeline</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             Building the future of education, one step at a time

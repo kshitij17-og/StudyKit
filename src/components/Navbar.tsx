@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="flex h-16 items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <GraduationCap className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold gradient-hero bg-clip-text text-transparent">
+            <span className="text-2xl font-bold text-primary">
               Study Kit
             </span>
           </Link>
